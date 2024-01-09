@@ -1,0 +1,16 @@
+.servicedata{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 1px;
+    margin: 10px;
+}
+p{
+    font-size: 15px;
+   
+}
+h4{
+    color: blue;
+}
