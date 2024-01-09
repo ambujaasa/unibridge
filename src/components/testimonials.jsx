@@ -22,7 +22,7 @@ export const Testimonials = (props) => {
 </ul>
 
 
-          <ul style={{color:"green",marginLeft:"10px",fontSize:"20px"}}>
+          <ul style={{color:"green",marginLeft:"30px",fontSize:"20px"}}>
             <h3>CAREER FIELD</h3>
             <li>MANAGEMENT</li>
             <li>PARAMEDICAL</li>
@@ -36,14 +36,14 @@ export const Testimonials = (props) => {
           <li style={{fontSize:"20px",color:"brown"}}>
           	UK , USA, CANADA, FRANCE, SPAIN, HUNGARY,MALAYSIA TURKEY, DUBAI
            </li> 
-          <a href="#" style={{fontSize:"15px"}}> www.goaheadintl.com</a>
+          <a href="#" style={{fontSize:"18px",marginLeft:"25px"}}> www.goaheadintl.com</a>
           <div>
           <li style={{fontSize:"20px",color:"brown"}}>
           	UZBEKISTAN, KIRGISTAN, GERMANY
 	<li>MBBS NURSING, AUSBUILDUNG </li>
   </li>
 
-          <a href="#" style={{fontSize:"15px"}}> www. goldenflora.org</a>
+          <a href="#" style={{fontSize:"18px",marginLeft:"25px"}}> www. goldenflora.org</a>
           
           </div>
           </div>

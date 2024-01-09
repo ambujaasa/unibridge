@@ -8,7 +8,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           </div>
-          <div className="servicedata">
+{/*          <div className="servicedata">
             <h4>CAREER COUNSE LING</h4>
             <p>Charting out the career path is a key step in planning for the Higher Education. At MYUNIBRIDGE, we put great emphasis on finding the right career path before we begin to plan for your overseas education. Our experienced counselors provide professional counseling services to help students define their career goals and the education relevant to achieving them. This helps students make an informed decision about their higher education.</p>
           </div>
@@ -75,11 +75,9 @@ Divert to Fluenzy Webiste</span>
             </h4>
             <p>MYUNIBRIDGE organizes pre-departure orientation sessions for our students. These sessions offer an opportunity to meet other students who are also travelling abroad for studies. Interaction with other students going to the same country can help you sort out various aspects of moving abroad such as accommodation arrangement, local transportation, purchasing household items, getting a part-time job, etc. Our pre-departure guidance also includes assistance for Forex, debit cards, and connecting our students with current students at the university you are going to study at.</p>
           </div>
+          */}
 
-          {/*<p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+         
         </div>
         <div className="row">
           {props.data
@@ -96,9 +94,6 @@ Divert to Fluenzy Webiste</span>
             : "loading"}
         </div>
       </div>
-            </div>*/}
-  
+        
 
-</div>
-</div>
   )}

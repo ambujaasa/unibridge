@@ -15,6 +15,7 @@ export const About = (props) => {
               <p>MYUNIBRIDGE the very innovative web portal is a collaborative endeavor of Golden Flora International and Go Ahead International two leading firms in the overseas education sector. The portal will act as one stop solution for all your needs right from scholarship bid to pre departure assistance. Our experienced counselors help students find the best education opportunities worldwide. We offer guidance throughout course selection, scholarship bid, visa application, funding assistance, and pre-departure process.</p>
               <p>We as a team have more than sixty years’ experience the education industry and career counseling and now looking to leverage this experience and expertise for benefit of our younger generation guiding them to win prestigious international scholarships for overseas education at premier universities across the globe. Our strong network of partner universities in countries like the UK, USA, EU countries, Malaysia, Turkey, Australia, New Zealand, Canada Middle East Central and Asian Countries, has created with years of hard work and has helped us place many students in the top universities abroad.</p>
               <h6>Our goal is to provide free counseling on scholarship opportunities, admissions (wherever possible), International Language Test preparation and free visa application assistance, to help the younger generation achieve their dream of studying abroad, and choosing the right career path</h6>
+    
               </div>
               </div>
               </div>
